@@ -1,0 +1,12 @@
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.deps.json
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.dll
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.pdb
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.dll
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\refint\RockPaperScissors.dll
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.pdb
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\ref\RockPaperScissors.dll
