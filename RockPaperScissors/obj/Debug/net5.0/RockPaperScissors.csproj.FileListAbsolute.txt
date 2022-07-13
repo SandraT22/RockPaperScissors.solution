@@ -10,3 +10,7 @@ C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\n
 C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\refint\RockPaperScissors.dll
 C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.pdb
 C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\ref\RockPaperScissors.dll
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.exe
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.json
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.dev.json
+C:\Users\Sandra\Desktop\RockPaperScissors.solution\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.genruntimeconfig.cache
